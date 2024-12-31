@@ -120,7 +120,7 @@ struct Market {
 2. **Installation**
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone 
 
 # Install frontend dependencies
 cd frontend
